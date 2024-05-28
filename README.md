@@ -1,4 +1,4 @@
-# Density-based-clustering
+# Density-based-cluste resampling
 
 We are resampling high-dimensional imbalanced data based on their density of distribution using clusters determined by DBSCAN. Minority class instances are augmented in border-areas of high density using Nearest Neighbours. This is was inspired by Borderline-SMOTE. 
 And majority instances in extremely dense clusters are under-sampled.
