@@ -9,4 +9,4 @@ Density based oversampling:
 In this, we are using a method inspired by Borderline-SMOTE using Nearest Neighbours to augment the minority class instances in border areas of high density
 Density based under sampling:
 Majority class instances belonging to high density clusters are undersampled.
-![screenshot]("C:\Users\achut\Downloads\Screenshot 2024-05-28 154941.png")
+![plot]("C:\Users\achut\Downloads\Screenshot 2024-05-28 154941.png")
